@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Articblush
+Comment=A cold GTK theme based on the Articblush colorscheme.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=articblush
+MetacityTheme=articblush
+IconTheme=Adwaita
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close
