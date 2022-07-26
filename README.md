@@ -5,7 +5,7 @@
 
 ## Preview
 <p align="center"> 
-  <img src="AEE2EE35-1DC6-4893-B62F-F2CA272923EF.png">
+  <img src="preview.png">
 </p> 
 
 > This repository contains the Articblush GTK theme, as well as custom CSS for the Thunar file manager.
