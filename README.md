@@ -3,7 +3,7 @@
 	Articblush GTK</a>
   </h1>
 
- <h3 align="center">Ice Your Desktop with articblush gtk.</h3>
+ <h3 align="center">Ice out your desktop with our GTK theme.</h3>
  
  ----
 <p align="center"> 
